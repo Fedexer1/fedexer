@@ -1,0 +1,33 @@
+/**SKIN FEITA POR ENCASULADA, NÃO USE COMO BASE, NÃO PEGUE DETALHES E NÃO OUSE PLAGIAR, OBRIGADA!**/
+
+#player,#player a{ color:transparent; }
+#player{ background:url(); background-position:bottom; background-color: transparent; }
+#player .mainImage{ background:url(http://static.tumblr.com/qmfr3ui/6qxn5p331/pbasic6.png); }
+
+#player #baseLeft{ width:93px; }
+#player #baseRight{ width:145px;}
+#player .button{ width:26px; }
+#player #play{ background:url(http://static.tumblr.com/qmfr3ui/jrkn5p33k/ppbasic6.png); }
+#player #play,#player #pause{ left:26px; }
+#player #previous{ left:0px; }
+#player #next{ left:52px; }
+#player #title{ left:90px; }
+#player #tooltip{ right:196px; }
+#player #timer{ right:120px; }
+#player #list{ right:0px; }
+
+#player #seeker{ right:320px; }
+#player #seekerBase{ border-color:transparent; }
+#player #seekerBuffered{ background-color:transparent; }
+#player #seekerSliderBase{ background-color:transparent; }
+
+#player #volume{ width:65px; right:39px; }
+#player #volumeSlider{ width:8px; background:url(); }
+
+#playlist,#playlist .module,#playlist h3{ border-color:transparent; }
+#playlist .module{ color:#eee; background-color:#fff; }
+#playlist h3{ background:url(http://static.tumblr.com/qmfr3ui/Cden5dfgi/ppanda1.png); color:transparent; background-color:#fff; }
+
+#playlist .even{background-color:transparent; }
+#playlist .odd{ background-color:transparent; }
+#playlist .focus{ background-color:transparent; color:#aaa;}
